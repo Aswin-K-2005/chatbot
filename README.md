@@ -1,7 +1,4 @@
-Perfect 👍
-I’ll generate a professional, recruiter-ready README for your Python chatbot project.
 
-You can copy-paste this directly into your README.md.
 
 🤖 AI Chatbot (Intent-Based Neural Network)
 
